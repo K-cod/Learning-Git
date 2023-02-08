@@ -6,5 +6,6 @@ class ok{
     public void method(int value){
        System.out.print(value);
       }
+    // adding a comment for no damn reason lol
 
 }
